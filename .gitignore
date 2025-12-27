@@ -9,3 +9,12 @@
 
 tools
 workplace/
+
+# Output files from redirect_output.sh
+stdout.txt
+stderr.txt
+output_and_error1.txt
+output_and_error2.txt
+stdout_only.txt
+stderr_only.txt
+append_test.txt
